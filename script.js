@@ -7,9 +7,9 @@ if(enterAge <= 0){
     alert('Молодая кровь');
 }else if(enterAge <= 18){
     alert('Школьник');
-}else if(enterAge <= 150){
+}else if(enterAge <= 110){
     alert('ТЫ ДЕД ПЕРДЕД ПОЗДРАВЛЯЮ!!!');
-}else if(enterAge >= 151){
+}else if(enterAge >= 111){
     alert('Ты что инопланетянин!? О_о');
 }else{
     alert('ПИШИ ТОЛЬКО ЦИФРЫ ШАЙТАН ! ! !')
